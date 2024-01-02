@@ -1,2 +1,2 @@
 # javaLogin-Backend
-java dynamic loging webpage backend code with data base connection
+java dynamic webpage ( Log in page ) backend code with data base connection
